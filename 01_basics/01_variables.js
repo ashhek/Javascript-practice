@@ -14,4 +14,4 @@ console.log([accountId, accountEmail, accountPassword, accountCity, accountName]
   *let and var can be updated 
   *if variable is initialised then it gives undefined output 
 
-*/
+*/ 
